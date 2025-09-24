@@ -6,7 +6,7 @@
 > for any location and date you choose.
 
 
-<details>
+
 **✨ Features**
 
 -🔍 **Smart Query** – Enter a location and date to see detailed risk levels.
@@ -14,7 +14,6 @@
 -🎨 **Personalized Interface** – Intuitive, mobile-friendly UI for quick planning.
 -🌎 **Global Reach** – Works for cities, trails, lakes, and more worldwide.
 -**⚡ Fast Results** – Instant forecasts and visual risk indicators.
-</details>
 
 
 ## 🖼️ Demo
