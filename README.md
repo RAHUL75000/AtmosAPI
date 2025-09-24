@@ -10,10 +10,10 @@
 ##✨ Features
 
 -🔍 **Smart Query** – Enter a location and date to see detailed risk levels.
--**📊 Data-Driven – Uses real Earth-observation & historical climate datasets.
--**🎨 Personalized Interface – Intuitive, mobile-friendly UI for quick planning.
--**🌎 Global Reach – Works for cities, trails, lakes, and more worldwide.
--**⚡ Fast Results – Instant forecasts and visual risk indicators.
+-📊 **Data-Driven** – Uses real Earth-observation & historical climate datasets.
+-🎨 **Personalized Interface** – Intuitive, mobile-friendly UI for quick planning.
+-🌎 **Global Reach** – Works for cities, trails, lakes, and more worldwide.
+-**⚡ Fast Results** – Instant forecasts and visual risk indicators.
 </details>
 
 
