@@ -7,7 +7,7 @@
 
 
 <details>
-##✨ Features
+**✨ Features**
 
 -🔍 **Smart Query** – Enter a location and date to see detailed risk levels.
 -📊 **Data-Driven** – Uses real Earth-observation & historical climate datasets.
