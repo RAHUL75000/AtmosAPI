@@ -20,5 +20,5 @@
 
 | Live App | Screenshot |
 |---------|------------|
-| [**👉 Try it here**](https://storage.appilix.com/uploads/app-apk-68d29b6834934-1758632808.apk) | ![App Screenshot](./assets/screenshot.png) |
+| [**👉 Try apk**](https://storage.appilix.com/uploads/app-apk-68d29b6834934-1758632808.apk) [**👉 Try web **](https://atmosapi-1.onrender.com/) | ![App Screenshot](home.jpg) |
 
